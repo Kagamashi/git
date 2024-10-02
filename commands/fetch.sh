@@ -3,10 +3,10 @@ This is useful for reviewing changes before merging.
 
 # fetch updates from default remote or specific branch
 git fetch origin
-git fetch origin <branch_name>
+git fetch origin [branch_name]
 
 # inspect fetched changes
-git log origin/<branch_name>
+git log origin/[branch_name]
 
 # apply changes
-git merge origin/<branch_name>
+git merge origin/[branch_name]
