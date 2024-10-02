@@ -5,4 +5,4 @@ It combines git fetch (downloads changes) and git merge (applies changes) in one
 git pull
 
 # pull changes from specific branch
-git pull origin <branch_name>
+git pull origin [branch_name]
