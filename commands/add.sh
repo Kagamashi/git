@@ -2,7 +2,7 @@ git add moves changes (new files, modifications, deletions) to the staging area 
 The staging area allows you to selectively choose what changes you want to include in the next commit.
 
 # add specific file to staging
-git add <file_name>
+git add [file_name]
 
 # add all changes (tracked and untracked files)
 git add .
