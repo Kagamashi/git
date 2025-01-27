@@ -1,4 +1,3 @@
-
 # Rebasing Branches and Interactive Rebasing
 
 ## Rebasing Branches (`git rebase`)
