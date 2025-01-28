@@ -1,5 +1,6 @@
-git add moves changes (new files, modifications, deletions) to the staging area in preparation for a commit.
-The staging area allows you to selectively choose what changes you want to include in the next commit.
+git add
+# Moves changes (new files, modifications, deletions) to the staging area in preparation for a commit.
+# The staging area allows to selectively choose what changes you want to include in the next commit.
 
 # add specific file to staging
 git add [file_name]
