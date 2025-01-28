@@ -1,5 +1,5 @@
-git stash is used to temporarily save changes that we are not ready to commit.
-It allows to switch branches or work on something else without losing our current work.
+# git stash is used to temporarily save changes that we are not ready to commit.
+# It allows to switch branches or work on something else without losing our current work.
 
 # stash current changes
 git stash 
