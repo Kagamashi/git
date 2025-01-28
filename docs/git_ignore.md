@@ -56,4 +56,3 @@ filename.txt
 - `.gitignore` is essential for keeping repositories clean by excluding unnecessary or sensitive files.
 - Combine repository-level `.gitignore` files with a global `.gitignore` for better management.
 - Use patterns effectively to customize what Git should ignore.
-
