@@ -1,5 +1,5 @@
-git reset # Moves the HEAD pointer and optionally discards or keeps changes.
-git revert # Safely undoes a commit by creating a new commit that reverses the changes.
+git reset   # Moves the HEAD pointer and optionally discards or keeps changes.
+git revert  # Safely undoes a commit by creating a new commit that reverses the changes.
 git restore # Discards uncommitted changes
 
 ---
