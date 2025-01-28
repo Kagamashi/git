@@ -21,7 +21,7 @@ git config user.email
 git config --global core.editor "vim"
 
 # Auto-line ending conversion - handles line ending differences between Windows (CRLF) and Unix (LF) systems 
-git config --global core.autocrlf true # Windows
+git config --global core.autocrlf true  # Windows
 git config --global core.autocrlf input # Unix/MacOS
 
 # Create shortcuts for common Git commands using aliases
