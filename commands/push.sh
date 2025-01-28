@@ -1,4 +1,5 @@
-# git push is used to send your local commits to a remote repository.
+# git push
+# Used to send your local commits to a remote repository.
 # This command updates the remote repository with your new commits.
 
 # push changes to default remote (origin) and branch
