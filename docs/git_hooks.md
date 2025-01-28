@@ -59,4 +59,3 @@ chmod +x .git/hooks/pre-commit
 ---
 
 Git hooks allow you to customize Git’s behavior and ensure that processes like code quality checks or testing are enforced across your workflow.
-
