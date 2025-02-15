@@ -1,3 +1,2 @@
-# LEARN GIT BRANCHING
-https://learngitbranching.js.org/?locale=pl
 
+https://learngitbranching.js.org/?locale=pl
