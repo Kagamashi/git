@@ -1,6 +1,5 @@
 
 git reset   # Moves the HEAD pointer and optionally discards or keeps changes.
-git revert  # Safely undoes a commit by creating a new commit that reverses the changes.
 git restore # Discards uncommitted changes
 
 ---
@@ -13,17 +12,6 @@ git restore .
 
 # To revert a file to an earlier commit:
 git checkout <commit_hash> -- <file>
-
----
-
-# SOFT RESET : moves HEAD to a previous commit, but keeps your changes in the working directory and staging area
-git reset --soft [commit]
-
-# MIXED RESET (default) : moves HEAD to a previous commit and keeps changes in the working directory but unstages them
-git reset --mixed [commit]
-
-# HARD RESET : moves HEAD to previous commit and discards all changes
-git reset --hard [commit]
 
 ---
 
